@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 21:09:15 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myfirstarticles</title>
+      <link>/posts/myfirstarticles/</link>
+      <pubDate>Sat, 01 Jul 2023 21:09:15 +0800</pubDate>
+      
+      <guid>/posts/myfirstarticles/</guid>
+      <description>
+        
+          
+            #这是我的第一篇博客内容 #出现的难题在做完hugo.coml的环境变量配置之后在测试面板找不到他所在的地址，就是说明博客没法运行起来，通过重新配置环境变量就可以运行了。
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
